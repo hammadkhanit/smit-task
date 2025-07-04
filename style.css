@@ -1,0 +1,116 @@
+body{
+    font-family: Inter !important;
+    background-color: ;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: black !important;
+    height: 100px;
+}
+.logo-img {
+    max-width: 165px;
+    height: auto;
+    margin-left: 70px;
+}
+
+
+
+@font-face {
+    font-family: Inter;
+    src: url(fonts/Inter/Inter-VariableFont_opsz\,wght.ttf)}
+
+.btn-1{
+    font-size: 14px !important;
+    padding: 12px;
+    border-radius: 45px;
+    margin-right: 10px;
+    color: white;
+    border: solid 1px white;
+}
+.btn-2{
+    margin-right: 60px;
+    padding: 15px 45px 15px 15px;
+    border-radius: 75px;
+    background-color: #ED1C24;
+    border: none;
+    color: white;
+    font-size: 14px;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E") !important;
+}
+.section-1{
+    background-color: black;
+    height: 580px;
+}
+.section-2{
+    /* height: 700px; */
+    background-color: black;
+}
+.img-1{
+    height: 140px;
+    
+}
+.order-1{
+    border: solid 1px white;
+    background-color: black;
+    padding: 10px 40px;
+    border-radius: 80px;
+    color: white;
+    font-size: 14px;
+    font-weight: bolder;
+
+}
+.main-2{
+    background-color: #0F0F0F;
+}
+.para h1{
+    font-size: 50px;
+}
+.para-2{
+    font-size: 55px;
+    font-family: int;
+}
+.isl{
+    line-height: 0.5px;
+}
+.my-btn-res{
+    background-color: #0F0F0F;
+    border: rgb(130, 129, 129) solid 1px;
+    padding: 12px 20px;
+    border-radius: 62px;
+    font-size: 13px;
+    color: white;
+}
+.fais{
+    line-height: 0.5;
+}
+/* .fais, */
+.imp-div{
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+
+}
+.second-last-section{
+    background-color: black;
+}
+.my-sec{
+    background-color: black;
+}
+.baha{
+    line-height: 0.5px;
+}
+.b-btn{
+    background-color: #0F0F0F;
+    border: white 1px solid;
+    padding: 13px 20px;
+    border-radius: 66px;
+    color: white;
+    font-size: 14px;
+    margin-top: 20px;
+}

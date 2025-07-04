@@ -1,0 +1,75 @@
+@media only screen and (max-width:996px) {
+    .logo-img{
+        max-width: 90px;
+    }
+    .main{
+    background-color: black !important;
+    height: 65px;
+}
+    .section-1{
+      height: 700px;
+    }
+
+}
+@media (max-width: 991.98px) {
+  .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav .nav-item,
+  .navbar-nav .nav-link {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    
+  }
+   .btn-1, .btn-2 {
+    display: block !important;
+    width: 90% !important;
+    margin: 10px auto !important;  
+    text-align: center !important; 
+  } 
+.my-form{
+    display: block !important;
+    
+}
+
+}
+@media only screen and (max-width:580px) {
+  .section-1{
+    height: 1110px;
+    
+  }
+  .order-1{
+    margin-bottom: 7px;
+  }
+}
+
+@media only screen and (max-width:586px) {
+  .rest{
+    position: relative;
+    bottom: 10px;
+  }
+  .my-fs{
+    font-size: 12px !important;
+    color: rgb(159, 159, 159);
+    position: relative;
+    bottom: 12px;
+  }
+  .resp{
+    font-size: 25px !important;
+  }
+  .para-2{
+    font-size: 24px !important;
+  }
+}
+@media only screen and (max-width:778px) {
+  .img-self{
+    margin-top: 35px;
+  }
+  .b-btn{
+    margin-bottom: 25px;
+  }
+
+
+}
